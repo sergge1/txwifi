@@ -16,7 +16,7 @@ import (
 	"github.com/bhoriuchi/go-bunyan/bunyan"
 	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
-	"github.com/sergge1/txwifi/iotwifi"
+	"github.com/sergge1/txwifi/tree/develop/iotwifi"
 )
 
 // ApiReturn structures a message for returned API calls.
